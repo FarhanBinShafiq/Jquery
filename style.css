@@ -1,0 +1,86 @@
+.box-1 {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    margin-top: 10px;
+
+}
+
+.box-2 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(15, 15, 15);
+    margin-top: 10px;
+
+}
+
+.box-3 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 9, 72);
+    margin-top: 10px;
+}
+
+.box-4 {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: rgb(127, 218, 9);
+
+}
+
+
+
+#lorem {
+    text-align: center;
+    background-color: aqua;
+    font-size: 20px;
+    color: brown;
+    width: 500px;
+    padding: 10px;
+    margin-top: 50px;
+    margin: auto;
+}
+
+.lorem-text {
+    text-align: center;
+    background-color: rgb(88, 7, 27);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 500px;
+    padding: 10px;
+    margin-top: 50px;
+    margin: auto;
+}
+
+
+div{
+    font-size: 20px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin-top: 50px;
+    background: red;
+}
+
+
+h1{
+    
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    border: 1px solid salmon;
+}
+
+
+.learning{
+    color: red;
+    background-color: aqua;
+    border: 1px salmon dotted;
+    text-align: center;
+    margin: auto;
+    
+}
